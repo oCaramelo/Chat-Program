@@ -18,7 +18,7 @@ All messages sent to the client while he was offline will be shown after choosin
 
 `/sall (file name)` to send a file to all clients connected to the server (broadcast)
 
-`/o` to see clients who are online 
+`/o` to see the clients who are online 
 
 To send a message to all online clients just write the message and press Enter.
 
