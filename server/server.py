@@ -153,7 +153,6 @@ def receive():
         check_offline_files(nickname,client)
         thread = threading.Thread(target = client_sent, args=(client,))
         thread.start()
-
         print(nicknames)
 
 if __name__ == "__main__":
