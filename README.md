@@ -1,4 +1,4 @@
-# Chat-Program
+# Simple-Chat-Program
 **Description**
 
 This is a simple chat program that was created through socket programming in Python.
@@ -12,7 +12,7 @@ All messages sent to the client while he was offline will be shown after choosin
 
 **Commands**
 
-`/p (client name)` to send a private message to a client (unicast)
+`/p (client name) (message)` to send a private message to a client (unicast)
 
 `/s (client name) (file name)` to send a private file to a client (unicast)
 
